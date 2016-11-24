@@ -1,5 +1,19 @@
 $(function(){
 
-//get ready 
+  blink();
 
-})
+});
+
+
+
+  function blink(){
+
+  setInterval(function(){
+
+    $(".nota-p").toggleClass("nota-big")
+
+
+  },8000);
+
+
+  }
