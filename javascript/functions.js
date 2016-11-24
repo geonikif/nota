@@ -13,7 +13,7 @@ $(function(){
     $(".nota-p").toggleClass("nota-big")
 
 
-  },8000);
+  },5000);
 
 
   }
