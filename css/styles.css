@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin:0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+
+}
+
+html, body {
+
+  background-color: #D1E6B7;
+  color:white;
+}
