@@ -33,6 +33,7 @@ html, body {
 
 .nota p{
 
+  padding: 50px 50px;;
   animation-name: bounceInDown;
   animation-duration: 1s;
   animation-fill-mode: both;
